@@ -1,7 +1,9 @@
 # Hi there, I'm Salem! 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salemkode)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 I'm a web developer working with a variety of technologies, including React, Next.js, Vue.js, Nuxt.js, Node.js, JavaScript, TypeScript, Vite, CSS, and more. I have a deep love for TypeScript and all things type-safe.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salemkode)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Technologies & Tools
 
@@ -16,7 +18,7 @@ Explore some of my projects on [GitHub](https://github.com/salemkode). Each proj
 
 ## 🌱 Currently Learning
 
-I'm always looking to expand my skills. Currently, I'm diving deeper into [Current Learning Focus].
+I'm always looking to expand my skills. Currently, I'm diving deeper into TypeScript and typesafe.
 
 ## 📫 Let's Connect
 
